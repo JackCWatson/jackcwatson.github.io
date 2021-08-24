@@ -6,7 +6,6 @@ published: true
 
 All I have to say is uh - oh.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 Discovery/Initial PoC
 Release Date of CVEs: June 8 – July 1
