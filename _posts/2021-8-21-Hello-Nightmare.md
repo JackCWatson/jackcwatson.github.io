@@ -3,11 +3,6 @@ layout: post
 title: PrintNightmare
 published: true
 ---
----
-layout: post
-title: Blogging Like a Hacker
----
-
 
 #####  Discovery/Initial PoC
 ######  Release Date of CVEs: June 8 – July 1
