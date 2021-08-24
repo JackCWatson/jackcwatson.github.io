@@ -3,19 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name:  ___  _______  ___   _  _______  ______
-
-      |   ||       ||   | | ||       ||    _ | 
-      
-      |   ||   _   ||   |_| ||    ___||   | ||  
-      
-      |   ||  | |  ||      _||   |___ |   |_||
-      _ 
-   ___|   ||  |_|  ||     |_ |    ___||    __  |
-   
-  |       ||       ||    _  ||   |___ |   |  | |
-  
-  |_______||_______||___| |_||_______||___|  |_|
+name: Blue
 
 # Short bio or description (displayed in the header)
 description: honestly, I just like security stuff
@@ -37,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: testing # just type anything here for a working RSS icon
+  rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
