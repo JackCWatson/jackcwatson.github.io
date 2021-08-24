@@ -3,7 +3,10 @@ layout: post
 title: PrintNightmare
 published: true
 ---
-uh - oh...
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
 
 #####  Discovery/Initial PoC
