@@ -15,13 +15,13 @@ published: true
 #####  Recently Patched
 ######  Release Date of CVEs: July 15 - August 10
  
-1. CVE-2021-34481 - Windows Print Spooler Remote Code Execution Vulnerability 
+1. [CVE-2021-34481](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34481) - Windows Print Spooler Remote Code Execution Vulnerability 
     - Patched in Microsoft’s August Patch Tuesday release
-2. CVE-2021-34483 - Windows Print Spooler Remote Code Execution Vulnerability 
+2. [CVE-2021-34483](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34483) - Windows Print Spooler Remote Code Execution Vulnerability 
     - Patched in Microsoft's August Patch Tuesday release
-3. CVE-2021-36936 – Windows Print Spooler Remote Code Execution Vulnerability 
+3. [CVE-2021-36936](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36936) – Windows Print Spooler Remote Code Execution Vulnerability 
     - Patched in Microsoft’s August Patch Tuesday release
-4. CVE-2021-36947 - Windows Print Spooler Remote Code Execution Vulnerability 
+4. [CVE-2021-36947](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36947) - Windows Print Spooler Remote Code Execution Vulnerability 
     - Patched in Microsoft’s August Patch Tuesday release
  
 #####  Unpatched
